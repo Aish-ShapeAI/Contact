@@ -1,0 +1,34 @@
+button{
+    padding: 10px;
+}
+button:hover{
+    background-color: lightgreen;
+}
+body{
+    color:rgb(47, 10, 106);
+    background-image:url(https://wpengine.com/wp-content/uploads/2016/01/contact-header-final-1024x465.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:inherit;
+    font-size: 25px;
+    font-style: bold;
+}
+
+h1{
+    color:black;
+    font-size: 75px;
+}
+
+input[ type=text] , select , textarea {
+    padding: 10px;
+}
+
+input[type=integer]{
+    padding:10px;
+}
+input[type=email]{
+    padding: 10px;
+}
+.container{
+    margin-left: 10%;
+}
